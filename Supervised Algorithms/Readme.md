@@ -1,3 +1,5 @@
+# Supervised Algorithms
+
 This part of the repo contains the supervised algorithms.
 
 The following algorithms have been implemented until now:
