@@ -1,4 +1,4 @@
-# Supervised Algorithms
+# Supervised Learning Algorithms
 
 This part of the repo contains the supervised algorithms.
 
